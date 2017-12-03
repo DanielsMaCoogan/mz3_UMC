@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: us.ihmc:IHMCEtherCATMaster:0.10.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/us.ihmc/IHMCEtherCATMaster/0.10.2/6b07726b6c3e8f76a28b8cacb1b6200dace0b201/IHMCEtherCATMaster-0.10.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/us.ihmc/IHMCEtherCATMaster/0.10.2/a7bef9807d99487b9d8251d14966f854a2f6aa55/IHMCEtherCATMaster-0.10.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

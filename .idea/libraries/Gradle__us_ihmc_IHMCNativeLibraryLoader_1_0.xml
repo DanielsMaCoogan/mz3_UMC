@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: us.ihmc:IHMCNativeLibraryLoader:1.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/us.ihmc/IHMCNativeLibraryLoader/1.0/6129ed3b1847099731d51ce1f06bc5587754e780/IHMCNativeLibraryLoader-1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/us.ihmc/IHMCNativeLibraryLoader/1.0/21fcbb8939745314832a64a1d97148f70a9167a6/IHMCNativeLibraryLoader-1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
